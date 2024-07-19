@@ -1,0 +1,11 @@
+langchain
+langchain_openai
+langchain_community
+datasets
+streamlit
+ragas
+PyPDF2
+pandas
+matplotlib
+numpy
+seaborn
